@@ -29,5 +29,3 @@ Cloudinary
 ## Author
 
 Teri
-ieditedthisfilehahaahahaha
-wadawskakakaakakaka
